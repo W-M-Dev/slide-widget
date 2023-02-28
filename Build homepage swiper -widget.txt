@@ -1,0 +1,19 @@
+I have a client who would like a homepage swiper / widget that is the same as https://www.brushcreekranch.com/
+
+See attached homepage-view.png and mobile-view.png screenshots.
+
+I'm looking to hire someone to build this for me.
+
+The site is being built with foundation.js and jquery.
+So feel free to use those frameworks.
+
+Deliverable from you:
+- An HTML page where I can easily replace the images and text as needed.
+- Text will overlay the images just like on brushcreekranch site.
+- Ability to have 3 or more slides.
+- Must be responsive like brushcreekranch
+- Must work like brushcreekranch
+
+I've attached 3 zip files. Each zip file contains image that can be used for the slides.
+
+Please respond with a total budget that you think this will cost.
